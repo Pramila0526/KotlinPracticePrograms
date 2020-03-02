@@ -2,9 +2,10 @@
 package com.bridgelabz.functioncallingfromjava
 import com.bridgelabz.functionexpression.max1
 /******************************************************************************************************************************
- * Author : Pramila Mangesh Tawari
- * Pupose : Example to call Kotlin method in java
+ * Author  : Pramila Mangesh Tawari
+ * Purpose : Example to call Kotlin method in java
  *(Function Calling from java)
+ * Date     : 26/02/2020
  ******************************************************************************************************************************/
 
 fun main(args:Array<String>) {

@@ -1,8 +1,9 @@
 package com.bridgelabz.functioncallingfromjava;
 /******************************************************************************************************************************
  * Author : Pramila Mangesh Tawari
- * Pupose : Example to call Kotlin method in java
+ * Purpose : Example to call Kotlin method in java
  * (Function Calling from java)
+ * Date     :26/02/2020
  *
  ******************************************************************************************************************************/
 

@@ -1,7 +1,8 @@
 package com.bridgelabz.loops
 /******************************************************************************************************************************
  * Author : Pramila Mangesh Tawari
- * Pupose : Example Of For Loops
+ * Purpose : Example Of For Loops
+ * Date    : 26/02/2020
  *
  ******************************************************************************************************************************/
 
@@ -25,7 +26,7 @@ fun main() {
     // Example for numbers in descending orders using downTo ---
     // Output:- 16 15 14 .........1
     var num1 = 16 downTo 1 // or 16.downTo(1)
-    // downTo is actually a methos which belongs ti Int class
+    // downTo is asctually a methos which belongs ti Int class
     // wecan also write it as 16.downTo(1)
     println("Example of For Loop with downTo for printing numbers in descending order in Kotlin")
     for(a in num1){

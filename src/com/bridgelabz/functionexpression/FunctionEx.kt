@@ -1,7 +1,8 @@
 package com.bridgelabz.functionexpression
 /******************************************************************************************************************************
  * Author : Pramila Mangesh Tawari
- * Pupose : Example Of Function Expressions
+ * Purpose : Example Of Function Expressions
+ * Date     : 26/02/2020
  *
  ******************************************************************************************************************************/
 

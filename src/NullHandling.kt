@@ -7,13 +7,12 @@ fun main(args : Array<String>) {
 
     var str1 : String? = null;
 
-    var abc : StringNull?= StringNull();
+    var abc = StringNull();
 
-//    println(abc.name?.length)
+    println("ghj")
+    // println(abc.name?.length)
 
-    abc =null
-
-    println(abc?.name)
+    println(abc.name)
 
 }
 

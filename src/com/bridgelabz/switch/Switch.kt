@@ -1,9 +1,9 @@
 package com.bridgelabz.switch
 
 /******************************************************************************************************************************
- * Author : Pramila Mangesh Tawari
- * Pupose : Example Of Switch Case in Kotlin
- *
+ * Author    : Pramila Mangesh Tawari
+ * Purpose   : Example Of Switch Case in Kotlin
+ * Date      : 26/02/202
  ******************************************************************************************************************************/
 
 fun main(args: Array<String>) {
