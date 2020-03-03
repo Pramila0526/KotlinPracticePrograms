@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d572a502-897b-41ff-8c31-c7dd285d5b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/array/ArrayEx.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/Abstract.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/DataClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/Modifiers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/Override.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/PrimaryConstructors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/SecondaryConstructors.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/TwoInterfacesEx.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Demo/META-INF/Demo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/META-INF/Demo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/NullHandlingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/NullHandlingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/StringNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/StringNull.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/functioncallingfromjava/JavaKotlin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/functioncallingfromjava/JavaKotlin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/functioncallingfromjava/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/functioncallingfromjava/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/functionexpression/FunctionExKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/functionexpression/FunctionExKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/loops/ForLoopExKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/loops/ForLoopExKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NullHandling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/NullHandling.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringNull.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringNull.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/collection/CollectionEx.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/collection/CollectionEx.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/functioncallingfromjava/JavaKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/functioncallingfromjava/JavaKotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/functioncallingfromjava/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/functioncallingfromjava/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/functionexpression/FunctionEx.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/functionexpression/FunctionEx.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/loops/ForLoopEx.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/loops/ForLoopEx.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/switch/Switch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/switch/Switch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/oop/Buttons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/oop/Buttons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/oop/InterfaceOne$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/oop/InterfaceOne$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/oop/InterfaceTwo$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/bridgelabz/oop/InterfaceTwo$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/oop/DataClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/oop/DataClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +40,20 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Kotlin.com.bridgelabz.oop.TwoInterfacesExKt">
+  <component name="RunManager" selected="Kotlin.com.bridgelabz.oop.DataClassKt">
+    <configuration name="com.bridgelabz.oop.DataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oop.DataClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.bridgelabz.oop.InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Demo" />
       <option name="VM_PARAMETERS" />
@@ -69,19 +62,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oop.InterfaceKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bridgelabz.oop.OverrideKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oop.OverrideKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.bridgelabz.oop.DataClassKt" />
         <item itemvalue="Kotlin.com.bridgelabz.oop.TwoInterfacesExKt" />
         <item itemvalue="Kotlin.com.bridgelabz.oop.InterfaceKt" />
         <item itemvalue="Kotlin.com.bridgelabz.oop.SecondaryConstructorsKt" />
         <item itemvalue="Kotlin.com.bridgelabz.oop.PrimaryConstructorsKt" />
-        <item itemvalue="Kotlin.com.bridgelabz.oop.OverrideKt" />
       </list>
     </recent_temporary>
   </component>
@@ -154,38 +134,42 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="524" y="84" width="548" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1583152519806" />
-    <state width="1253" height="101" key="GridCell.Tab.0.bottom" timestamp="1583155642050">
+    <state x="499" y="113" width="424" height="567" key="FileChooserDialogImpl" timestamp="1583227719347">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="113" width="424" height="567" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583227719347" />
+    <state width="1253" height="71" key="GridCell.Tab.0.bottom" timestamp="1583227936110">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1582697320385">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.bottom.inPresentationMode/67.27.1299.741@67.27.1299.741" timestamp="1582697320385" />
-    <state width="1253" height="101" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583155642050" />
-    <state width="1253" height="101" key="GridCell.Tab.0.center" timestamp="1583155642050">
+    <state width="1253" height="71" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583227936110" />
+    <state width="1253" height="71" key="GridCell.Tab.0.center" timestamp="1583227936110">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1582697320385">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.center.inPresentationMode/67.27.1299.741@67.27.1299.741" timestamp="1582697320385" />
-    <state width="1253" height="101" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583155642050" />
-    <state width="1253" height="101" key="GridCell.Tab.0.left" timestamp="1583155642050">
+    <state width="1253" height="71" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583227936110" />
+    <state width="1253" height="71" key="GridCell.Tab.0.left" timestamp="1583227936110">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1582697320384">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.left.inPresentationMode/67.27.1299.741@67.27.1299.741" timestamp="1582697320384" />
-    <state width="1253" height="101" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583155642050" />
-    <state width="1253" height="101" key="GridCell.Tab.0.right" timestamp="1583155642050">
+    <state width="1253" height="71" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583227936110" />
+    <state width="1253" height="71" key="GridCell.Tab.0.right" timestamp="1583227936110">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1582697320385">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="1320" height="281" key="GridCell.Tab.0.right.inPresentationMode/67.27.1299.741@67.27.1299.741" timestamp="1582697320385" />
-    <state width="1253" height="101" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583155642050" />
+    <state width="1253" height="71" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583227936110" />
     <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1582959370885">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -210,10 +194,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1583147642408" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583154506859">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1583229282483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583154506859" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583229282483" />
     <state x="177" y="147" width="1079" height="501" key="dock-window-1" timestamp="1582637677566">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -222,10 +206,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="27" width="778" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1583131104488" />
-    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1582710403879">
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1583229320598">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1582710403878" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1583229320598" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582700438649">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
